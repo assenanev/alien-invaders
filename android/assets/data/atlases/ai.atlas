@@ -1,0 +1,924 @@
+
+ai.png
+size: 1024,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 405, 109
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+btnAboutDown
+  rotate: false
+  xy: 607, 307
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnAboutUp
+  rotate: false
+  xy: 809, 509
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnBackDown
+  rotate: false
+  xy: 1, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnBackUp
+  rotate: false
+  xy: 1, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnEquipDisabled
+  rotate: false
+  xy: 917, 509
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnEquipDown
+  rotate: false
+  xy: 607, 199
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnEquipUp
+  rotate: false
+  xy: 405, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnJumpBDown
+  rotate: false
+  xy: 203, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnJumpBUp
+  rotate: false
+  xy: 1, 415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnLevel
+  rotate: false
+  xy: 607, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+btnMusicChecked
+  rotate: false
+  xy: 203, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnMusicDown
+  rotate: false
+  xy: 405, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnMusicUp
+  rotate: false
+  xy: 1, 213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnPlayDown
+  rotate: false
+  xy: 203, 415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnPlayUp
+  rotate: false
+  xy: 405, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnRepairDisabled
+  rotate: false
+  xy: 715, 307
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnRepairDown
+  rotate: false
+  xy: 715, 199
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnRepairUp
+  rotate: false
+  xy: 513, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnSettingsDown
+  rotate: false
+  xy: 607, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnSettingsUp
+  rotate: false
+  xy: 1, 11
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnSoundChecked
+  rotate: false
+  xy: 203, 213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnSoundDown
+  rotate: false
+  xy: 405, 415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnSoundUp
+  rotate: false
+  xy: 607, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnTutorialDown
+  rotate: false
+  xy: 809, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnTutorialUp
+  rotate: false
+  xy: 203, 11
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnUnlockDisabled
+  rotate: false
+  xy: 901, 401
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnUnlockDown
+  rotate: false
+  xy: 823, 293
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnUnlockUp
+  rotate: false
+  xy: 823, 185
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnVibrateChecked
+  rotate: false
+  xy: 405, 213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnVibrateDown
+  rotate: false
+  xy: 607, 415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnVibrateUp
+  rotate: false
+  xy: 809, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+iconLock
+  rotate: false
+  xy: 621, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+select
+  rotate: false
+  xy: 1011, 1015
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+smallRect1
+  rotate: false
+  xy: 1009, 493
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+smallRect2
+  rotate: false
+  xy: 1, 5
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 621, 2
+  size: 40, 40
+  split: 16, 16, 16, 16
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+window15xt70
+  rotate: false
+  xy: 735, 152
+  size: 45, 45
+  split: 17, 17, 17, 17
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+window15xt85
+  rotate: false
+  xy: 621, 86
+  size: 45, 45
+  split: 17, 17, 17, 17
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+window2
+  rotate: false
+  xy: 735, 110
+  size: 40, 40
+  split: 18, 17, 17, 18
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+window20xt10
+  rotate: false
+  xy: 931, 247
+  size: 60, 60
+  split: 22, 23, 22, 23
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+window20xt70
+  rotate: false
+  xy: 673, 137
+  size: 60, 60
+  split: 22, 23, 22, 23
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+window20xt85
+  rotate: false
+  xy: 931, 185
+  size: 60, 60
+  split: 22, 22, 22, 22
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+window30xt70
+  rotate: false
+  xy: 809, 417
+  size: 90, 90
+  split: 32, 33, 32, 33
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+window30xt85
+  rotate: false
+  xy: 931, 309
+  size: 90, 90
+  split: 32, 33, 32, 33
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+
+ai2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alienEngine
+  rotate: false
+  xy: 691, 49
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+alienHull
+  rotate: false
+  xy: 757, 124
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+alienModule
+  rotate: false
+  xy: 834, 911
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+battleCruiser
+  rotate: false
+  xy: 622, 910
+  size: 210, 113
+  orig: 210, 113
+  offset: 0, 0
+  index: -1
+battleShip
+  rotate: false
+  xy: 417, 763
+  size: 210, 113
+  orig: 210, 113
+  offset: 0, 0
+  index: -1
+bgRadarLeft
+  rotate: false
+  xy: 215, 609
+  size: 106, 212
+  orig: 106, 212
+  offset: 0, 0
+  index: -1
+bgRadarMiddle
+  rotate: false
+  xy: 109, 181
+  size: 4, 212
+  orig: 4, 212
+  offset: 0, 0
+  index: -1
+bgRadarRight
+  rotate: false
+  xy: 1, 181
+  size: 106, 212
+  orig: 106, 212
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 933, 562
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+boombig
+  rotate: false
+  xy: 691, 101
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+btnAutoFireDown
+  rotate: false
+  xy: 215, 501
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnAutoFireUp
+  rotate: false
+  xy: 367, 167
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnBgSmall
+  rotate: false
+  xy: 475, 167
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnDockDisabled
+  rotate: false
+  xy: 583, 167
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnDockDown
+  rotate: false
+  xy: 245, 45
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnDockUp
+  rotate: false
+  xy: 691, 167
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnJumpDisabled
+  rotate: false
+  xy: 799, 192
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnJumpDown
+  rotate: false
+  xy: 907, 192
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnJumpUp
+  rotate: false
+  xy: 799, 84
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnNextDown
+  rotate: false
+  xy: 907, 84
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnNextUp
+  rotate: false
+  xy: 367, 59
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnPauseDown
+  rotate: false
+  xy: 475, 59
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+btnPauseUp
+  rotate: false
+  xy: 583, 59
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bulletAlien
+  rotate: false
+  xy: 725, 293
+  size: 28, 5
+  orig: 28, 5
+  offset: 0, 0
+  index: -1
+bulletEarth
+  rotate: false
+  xy: 203, 396
+  size: 28, 5
+  orig: 28, 5
+  offset: 0, 0
+  index: -1
+corvette
+  rotate: false
+  xy: 933, 665
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+destroyer
+  rotate: false
+  xy: 323, 771
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+dreadnought
+  rotate: false
+  xy: 417, 878
+  size: 203, 145
+  orig: 203, 145
+  offset: 0, 0
+  index: -1
+fighter
+  rotate: false
+  xy: 979, 711
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+frigate
+  rotate: false
+  xy: 1, 7
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+gems
+  rotate: false
+  xy: 203, 449
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+heavyCruiser
+  rotate: false
+  xy: 834, 938
+  size: 180, 85
+  orig: 180, 85
+  offset: 0, 0
+  index: -1
+knobMove
+  rotate: false
+  xy: 933, 596
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+knobShoot
+  rotate: false
+  xy: 933, 628
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+laserAlien
+  rotate: false
+  xy: 323, 764
+  size: 65, 5
+  orig: 65, 5
+  offset: 0, 0
+  index: -1
+laserEarth
+  rotate: false
+  xy: 123, 64
+  size: 65, 5
+  orig: 65, 5
+  offset: 0, 0
+  index: -1
+lightCruiser
+  rotate: false
+  xy: 115, 193
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 873, 789
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: 1
+lightning
+  rotate: false
+  xy: 255, 474
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: 2
+lightning
+  rotate: false
+  xy: 255, 447
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: 3
+lightning
+  rotate: false
+  xy: 249, 420
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: 4
+lightning
+  rotate: false
+  xy: 939, 789
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: 5
+planet0
+  rotate: false
+  xy: 1, 59
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet1
+  rotate: false
+  xy: 629, 788
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet2
+  rotate: false
+  xy: 115, 273
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet3
+  rotate: false
+  xy: 751, 788
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet4
+  rotate: false
+  xy: 873, 816
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet5
+  rotate: false
+  xy: 123, 71
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet6
+  rotate: false
+  xy: 323, 641
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planet7
+  rotate: false
+  xy: 445, 641
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetCalisto0
+  rotate: false
+  xy: 567, 641
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetCalisto1
+  rotate: false
+  xy: 689, 666
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetCalistoGreen
+  rotate: false
+  xy: 811, 666
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetEarth
+  rotate: false
+  xy: 323, 519
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetEarthGreen
+  rotate: false
+  xy: 445, 519
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetFobos
+  rotate: false
+  xy: 567, 519
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetGanymede
+  rotate: false
+  xy: 689, 544
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetIo
+  rotate: false
+  xy: 811, 544
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetJupiter0
+  rotate: false
+  xy: 689, 422
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetJupiter1
+  rotate: false
+  xy: 811, 422
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetJupiter2
+  rotate: false
+  xy: 323, 397
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetMimas
+  rotate: false
+  xy: 445, 397
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetMiranda
+  rotate: false
+  xy: 567, 397
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetMoon0
+  rotate: false
+  xy: 237, 275
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+planetTriton
+  rotate: false
+  xy: 359, 275
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+plasmaAlien
+  rotate: false
+  xy: 629, 776
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+plasmaEarth
+  rotate: false
+  xy: 689, 410
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+slideraf
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+sliderbf
+  rotate: false
+  xy: 1019, 737
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+sliderbg
+  rotate: false
+  xy: 7, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+smallCircle
+  rotate: false
+  xy: 103, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+starBlue
+  rotate: false
+  xy: 481, 275
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+starCyan
+  rotate: false
+  xy: 603, 275
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+starRed
+  rotate: false
+  xy: 725, 300
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+starViolet
+  rotate: false
+  xy: 847, 300
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+starYellow
+  rotate: false
+  xy: 245, 153
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+station
+  rotate: false
+  xy: 215, 823
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tpMove
+  rotate: false
+  xy: 1, 811
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tpShoot
+  rotate: false
+  xy: 1, 597
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+turretLaser
+  rotate: false
+  xy: 203, 403
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+turretMachineGun
+  rotate: false
+  xy: 933, 743
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+turretPlasmaAlien
+  rotate: false
+  xy: 979, 743
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+turretPlasmaEarth
+  rotate: false
+  xy: 933, 697
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+vortex
+  rotate: false
+  xy: 1, 395
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
